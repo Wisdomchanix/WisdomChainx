@@ -15,8 +15,11 @@
 
 # Here are some ideas to get you started:
 ~ 🔨 I'm currently working with React and Node.js.
+
 ~ 🍀 I'm currently learning Java and Typescript.
+
 ~ 🧑🏿‍🤝‍🧑🏽 I'm looking to collaborate with web & app developers and designers.
+
 ~ 💬 Send a message for collab or chat: wisdomihundah664@gmail.com.
 ~ 😀 Pronouns: He/Him.
 ~ ⚡ Fun Fact: I love building web projects and sharing my projects on my socials.
