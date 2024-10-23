@@ -10,8 +10,6 @@
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-
-
 # Here are some ideas to get you started:
 
 ~ 🔨 I'm currently working with React and Node.js.
